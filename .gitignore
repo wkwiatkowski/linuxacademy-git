@@ -1,0 +1,6 @@
+# local ignore
+*.tmp
+tmp/*
+*.bak
+*.out
+
